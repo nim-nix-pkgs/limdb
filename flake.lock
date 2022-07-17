@@ -34,11 +34,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1657153764,
-        "narHash": "sha256-Q39104VvWazdObYhkJfDlhL7p9ywQE84fO62JAEvo2k=",
+        "lastModified": 1658018820,
+        "narHash": "sha256-BDHrp5scp3eDQPcgmsS4N2MGXTnfTirLTwikdsKkmic=",
         "owner": "nim-nix-pkgs",
         "repo": "limdb",
-        "rev": "391f3aeec5dcaa86bc770387b0ec19edda577105",
+        "rev": "83b5260835ea1dbd47c4d3564491254cdb5eaea8",
         "type": "github"
       },
       "original": {
@@ -63,11 +63,11 @@
       },
       "locked": {
         "dir": "0_1_2",
-        "lastModified": 1657153046,
-        "narHash": "sha256-dlkdPq7mhUNrVoOVCCBVCjpOYpALgqAP2VOFXfZ4rtY=",
+        "lastModified": 1658018024,
+        "narHash": "sha256-Li7ON2LVtFlwJmDBbqnCO1BNA0hoeVJGlJIKDDtG47k=",
         "owner": "nim-nix-pkgs",
         "repo": "lmdb",
-        "rev": "61fb7e8a9d5b1583693e2e80bd5e09f1ec9633a5",
+        "rev": "5400664126691b735642902df0285d53c44efebe",
         "type": "github"
       },
       "original": {
@@ -100,11 +100,11 @@
     "src-limdb-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1655073772,
-        "narHash": "sha256-JUymVw5B0qqdPuvShyEesX6C0wOQfuXoe1zIOYntkl8=",
+        "lastModified": 1657535979,
+        "narHash": "sha256-qqLg7Dhh7WdPZrWrR3y9qZ7tLWvO7jk2mzpiRI6W6dw=",
         "owner": "capocasa",
         "repo": "limdb",
-        "rev": "ac720536615057b54ee18456a36c60b6653bde5c",
+        "rev": "5862ec5f30800758a578eaa0622684566c0fd924",
         "type": "github"
       },
       "original": {
